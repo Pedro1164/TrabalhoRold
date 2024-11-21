@@ -1,4 +1,4 @@
-# Documentação do Sistema de Gerenciamento de Links
+# Documentação do Sistema de Banco de Links
 
 ## Descrição do Projeto
 
