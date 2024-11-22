@@ -33,9 +33,6 @@ Adicionada a funcionalidade para classificar links por categoria, permitindo uma
 ### Métodos Setters
 - Adicionados os métodos `setUrl`, `setDescricao` e `setCategoria` na classe `Link` para permitir a edição dos atributos dos links.
 
-### Estrutura do Menu
-- Ajustado o menu para que haja uma linha em branco antes e depois do menu, melhorando a clareza e organização da interface.
-
 ## Mudanças na Estrutura do Projeto
 O código foi atualizado para incluir a persistência de dados, edição de links, classificação por categoria, e outras correções e melhorias.
 
